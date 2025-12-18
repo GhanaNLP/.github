@@ -2,30 +2,28 @@
 [cols="2a,2a"]
 |===
 
-- 🔭 We are currently working on research project that improve machine translation, speech syhthesis and speech recognition for African languages
+- We are currently working on research project that improve machine translation, speech syhthesis and speech recognition for African languages
+Our community is made up of over 500 contributers who support several projects on a voluntary basis. We believe in community driven projects that drive innovation in natural language processing for Ghanaian languages. 
+
+You can join our community by sending a request via email - natural.language.processing.gh@gmail.com. Our community meetings are shared via our Youtube channel - https://www.youtube.com/@ghananlp.
 |
 
-=== Tools
+=== Top Projects
 
-- link:https://github.com/thammegowda/mtdata[mtdata^], datasets downloader
-- link:https://github.com/marian-nmt/sotastream[sotastream^], streaming approach to training data
-- link:https://github.com/isi-nlp/rtg[RTG^], NMT toolkit based on pytorch
-  * link:https://github.com/thammegowda/tahoma[Tahoma^]: Reimplementation in C++ [WIP] 
-- link:https://github.com/isi-nlp/boteval[BotEval^], chatbot eval
-- link:https://github.com/isi-nlp/nlcodec[nlcodec^], vocabulary manager
-- link:https://github.com/thammegowda/awkg[awkg^], pythonic awk
-- link:https://github.com/USCDataScience/sparkler[Sparkler^], a webcrawler on Apache Spark
-- Parser-Indexer: https://github.com/USCDataScience/parser-indexer[Java^], https://github.com/USCDataScience/parser-indexer-py[Python^]
-- Web apps (I wasn't trying to be a web dev):
-  * link:https://github.com/USCDataScience/supervising-ui[Supervising UI^], for image labeling
-  * link:https://github.com/thammegowda/nllb-serve[NLLB Serve^], an MT webapp to serve huggingface models
+- link:https://github.com/GhanaNLP/nsanku[nsanku^], Evaluating zero-shot performance of LLMs for Ghanaian languages
+- link:https://github.com/GhanaNLP/GhanaLLM[GhanaLLM^], A project to experiment with LLMs for Ghanaian languages 
+- link:https://github.com/GhanaNLP/tc-translate[tc-translate^], Terminolgy Controlled Machine Translation for Ghanaian languages
 
 |=== 
 
 
 == Research 
 
-https://scholar.google.com/citations?hl=en&user=7Ed3-tMAAAAJ&view_op=list_works&sortby=pubdate[__See my latest publications on Google Scholar__^]
+- link:https://arxiv.org/abs/2103.15963[Contextual Text Embeddings for Twi^]
+- link:https://arxiv.org/abs/2103.15625[English-Twi Parallel Corpus for Machine Translation^]
+- link:https://arxiv.org/abs/2103.15475[NLP for Ghanaian Languages^]
+
+
 
 [columns="m,"]
 |===
