@@ -25,9 +25,9 @@ All our projects.
 |===
 | Repo | Description | Status | Note 
 
-| https://github.com/marian-nmt/marian-dev/tree/master/src/python[PyMarian^]
-| Python bindings to Marian C++; `pip install pymarian`
-| Complete✅
+| https://github.com/GhanaNLP/nsanku[nsanku^]
+| Evaluating zero-shot performance of LLMs for Ghanaian languages
+| Accepting contributions✅
 | https://arxiv.org/abs/2408.11853[Paper^]; https://pypi.org/project/pymarian[PyPI^]
 
 
