@@ -2,14 +2,7 @@
 [cols="2a,2a"]
 |===
 
-- 🔭 I’m currently working on neural machine translation, imbalanced learning
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... anything
-- 📫 How to reach me: https://twitter.com[@thammegowda^]
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: ...
+- 🔭 We are currently working on research project that improve machine translation, speech syhthesis and speech recognition for African languages
 |
 
 === Tools
