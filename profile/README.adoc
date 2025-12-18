@@ -17,13 +17,9 @@ You can join our community by sending a request via email - natural.language.pro
 |=== 
 
 
-== Research 
+== Projects 
 
-- link:https://arxiv.org/abs/2103.15963[Contextual Text Embeddings for Twi^]
-- link:https://arxiv.org/abs/2103.15625[English-Twi Parallel Corpus for Machine Translation^]
-- link:https://arxiv.org/abs/2103.15475[NLP for Ghanaian Languages^]
-
-
+All our projects.
 
 [columns="m,"]
 |===
