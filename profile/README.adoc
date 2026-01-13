@@ -12,7 +12,7 @@ You can join our community by sending a request via email - natural.language.pro
 
 - link:https://github.com/GhanaNLP/nsanku[nsanku^], Evaluating zero-shot performance of LLMs for Ghanaian languages
 - link:https://github.com/GhanaNLP/GhanaLLM[GhanaLLM^], A project to experiment with LLMs for Ghanaian languages 
-- link:https://github.com/GhanaNLP/tc-translate[tc-translate^], Terminolgy Controlled Machine Translation for Ghanaian languages
+- link:https://github.com/GhanaNLP/ghana-translator[ghana-translator^], Terminolgy Controlled Machine Translation for Ghanaian languages
 
 |=== 
 
