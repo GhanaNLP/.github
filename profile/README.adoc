@@ -10,7 +10,7 @@ You can join our community by sending a request via email - natural.language.pro
 
 === Featured Projects
 
-- link:https://github.com/GhanaNLP/nsanku[nsanku^], Evaluating zero-shot performance of LLMs for Ghanaian languages
+- link:https://github.com/GhanaNLP/nsanku[nsanku^], Evaluating zero-shot translation performance of LLMs for Ghanaian languages
 - link:https://github.com/GhanaNLP/GhanaLLM[GhanaLLM^], A project to experiment with LLMs for Ghanaian languages 
 - link:https://github.com/GhanaNLP/nkrane-gt[nkrane-gt^], Terminolgy Controlled Machine Translation for Ghanaian languages
 
